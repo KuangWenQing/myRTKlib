@@ -1,0 +1,89 @@
+[{
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/ephemeris.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/ephemeris.c -o /home/kwq/codeLite_pro/myRTKlib/src/ephemeris.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/geoid.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/geoid.c -o /home/kwq/codeLite_pro/myRTKlib/src/geoid.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/postpos.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/postpos.c -o /home/kwq/codeLite_pro/myRTKlib/src/postpos.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/ionex.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/ionex.c -o /home/kwq/codeLite_pro/myRTKlib/src/ionex.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/ppp.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/ppp.c -o /home/kwq/codeLite_pro/myRTKlib/src/ppp.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/ppp_ar.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/ppp_ar.c -o /home/kwq/codeLite_pro/myRTKlib/src/ppp_ar.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/preceph.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/preceph.c -o /home/kwq/codeLite_pro/myRTKlib/src/preceph.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/options.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/options.c -o /home/kwq/codeLite_pro/myRTKlib/src/options.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rinex.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rinex.c -o /home/kwq/codeLite_pro/myRTKlib/src/rinex.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/sbas.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/sbas.c -o /home/kwq/codeLite_pro/myRTKlib/src/sbas.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/lambda.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/lambda.c -o /home/kwq/codeLite_pro/myRTKlib/src/lambda.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtcm2.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtcm2.c -o /home/kwq/codeLite_pro/myRTKlib/src/rtcm2.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/solution.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/solution.c -o /home/kwq/codeLite_pro/myRTKlib/src/solution.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/pntpos.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/pntpos.c -o /home/kwq/codeLite_pro/myRTKlib/src/pntpos.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtkpos.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtkpos.c -o /home/kwq/codeLite_pro/myRTKlib/src/rtkpos.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtcm3.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtcm3.c -o /home/kwq/codeLite_pro/myRTKlib/src/rtcm3.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtklib.h",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtklib.h -o /home/kwq/codeLite_pro/myRTKlib/src/rtklib.h.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp/rnx2rtkp.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/rnx2rtkp/rnx2rtkp.c -o /home/kwq/codeLite_pro/myRTKlib/rnx2rtkp/rnx2rtkp.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtkcmn.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtkcmn.c -o /home/kwq/codeLite_pro/myRTKlib/src/rtkcmn.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/qzslex.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/qzslex.c -o /home/kwq/codeLite_pro/myRTKlib/src/qzslex.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtcm3e.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtcm3e.c -o /home/kwq/codeLite_pro/myRTKlib/src/rtcm3e.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }, {
+  "file": "/home/kwq/codeLite_pro/myRTKlib/src/rtcm.c",
+  "directory": "/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp",
+  "command": "clang  -c /home/kwq/codeLite_pro/myRTKlib/src/rtcm.c -o /home/kwq/codeLite_pro/myRTKlib/src/rtcm.c.o  -I. -I. -I../src  -g  -O0  -Wall"
+ }]

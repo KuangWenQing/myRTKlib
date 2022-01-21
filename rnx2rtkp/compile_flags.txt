@@ -1,0 +1,2 @@
+-I/home/kwq/codeLite_pro/myRTKlib/rnx2rtkp
+-I/home/kwq/codeLite_pro/myRTKlib/src
