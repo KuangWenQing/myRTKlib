@@ -1,0 +1,10 @@
+*.o
+*.obs
+*.ini
+*.local
+Release
+Release_Build
+Debug_Build
+__history
+Debug
+.codelite
